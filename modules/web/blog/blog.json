@@ -1,0 +1,8 @@
+{
+  "name": "Blog",
+  "module": "web",
+  "type": "Page",
+  "is_single": 1,
+  "is_static": 0,
+  "doc_structure": "[]"
+}

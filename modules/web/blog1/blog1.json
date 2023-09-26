@@ -1,0 +1,12 @@
+{
+  "id": 291,
+  "name": "Blog1",
+  "module": "web",
+  "type": "Page",
+  "is_single": 1,
+  "is_static": 0,
+  "doc_structure": "[{\"element\":\"banner\",\"data\":{\"label\":\"Support\",\"name\":\"banner1_el168560130845\",\"description\":\"Loopar is a free software Pryect, if you want support you can do in the next section\",\"background_color\":{\"color\":\"#000000\",\"alpha\":0.5},\"background_image\":[{\"name\":\"use-svg-as-background-image-particle-strokes.svg\",\"type\":\"image\",\"size\":8023,\"created_at\":1686101980823.761,\"src\":\"/uploads/use-svg-as-background-image-particle-strokes.svg\",\"extention\":\"svg\",\"previewSrc\":\"/uploads/use-svg-as-background-image-particle-strokes.svg\",\"selected\":true}],\"color_overlay\":{\"color\":\"#000000\",\"alpha\":0.5}},\"elements\":[]},{\"element\":\"stripe\",\"data\":{\"label\":\"Stripe\",\"name\":\"stripe1_el174280871997\",\"background_color\":{\"color\":\"#000000\",\"alpha\":0.5},\"background_image\":[],\"color_overlay\":{\"color\":\"#000000\",\"alpha\":0.5}},\"elements\":[]},{\"element\":\"section\",\"data\":{\"name\":\"section1_el1003178549293\",\"id\":\"section1_el375537804672\",\"label\":\"Section1\"},\"elements\":[{\"element\":\"button\",\"data\":{\"label\":\"Donate\",\"name\":\"donate\",\"action\":\"donate\",\"background_color\":{\"color\":\"#000000\",\"alpha\":0.5},\"background_image\":[],\"color_overlay\":{\"color\":\"#000000\",\"alpha\":0.5}},\"elements\":[]}]}]",
+  "search_fields": "",
+  "title_fields": "",
+  "deleted_at": null
+}
