@@ -1,10 +1,10 @@
 {
   "App": {
-    "doctypeId": 4,
+    "doctypeId": 3,
     "documents": {
       "alphabit-webpage": {
         "__document_status__": "Active",
-        "id": 109,
+        "id": 2,
         "deleted_at": "",
         "type": "Web App",
         "menu": "default",
@@ -24,7 +24,7 @@
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.0.8",
+        "version": "0.0.9",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
@@ -34,31 +34,31 @@
     "doctypeId": 1,
     "documents": {
       "Home": {
-        "id": 336,
+        "id": 22,
         "name": "Home",
         "module": "web",
         "type": "Page"
       },
       "About": {
-        "id": 337,
+        "id": 23,
         "name": "About",
         "module": "web",
         "type": "Page"
       },
       "Blog1": {
-        "id": 338,
+        "id": 24,
         "name": "Blog1",
         "module": "web",
         "type": "Page"
       },
       "Portfolio": {
-        "id": 339,
+        "id": 25,
         "name": "Portfolio",
         "module": "web",
         "type": "Page"
       },
       "Contact": {
-        "id": 340,
+        "id": 26,
         "name": "Contact",
         "module": "web",
         "type": "Page"
@@ -66,11 +66,11 @@
     }
   },
   "Module": {
-    "doctypeId": 5,
+    "doctypeId": 2,
     "documents": {
       "web": {
         "__document_status__": "Active",
-        "id": 99,
+        "id": 5,
         "name": "web",
         "description": "Web",
         "app_name": "alphabit-webpage",
