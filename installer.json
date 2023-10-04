@@ -24,7 +24,7 @@
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.0.9",
+        "version": "0.1.0",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
@@ -66,7 +66,7 @@
     }
   },
   "Module": {
-    "doctypeId": 2,
+    "doctypeId": 3,
     "documents": {
       "web": {
         "__document_status__": "Active",
