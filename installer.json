@@ -4,7 +4,7 @@
     "documents": {
       "alphabit-webpage": {
         "__document_status__": "Active",
-        "id": 2,
+        "id": 10,
         "deleted_at": null,
         "type": "Web App",
         "menu": "default",
@@ -20,10 +20,20 @@
         "menu_items": [
           {
             "__document_status__": "Active",
-            "id": 2,
+            "id": 16,
             "name": "el1144515371249",
             "menu_link": "Home",
             "description": "Home",
+            "document_parent": "App",
+            "document_parent_name": "alphabit-webpage",
+            "deleted_at": null
+          },
+          {
+            "__document_status__": "Active",
+            "id": 17,
+            "name": "el143492076931",
+            "menu_link": "About",
+            "description": "About",
             "document_parent": "App",
             "document_parent_name": "alphabit-webpage",
             "deleted_at": null
@@ -35,7 +45,7 @@
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
@@ -45,31 +55,31 @@
     "doctypeId": 1,
     "documents": {
       "Home": {
-        "id": 22,
+        "id": 62,
         "name": "Home",
         "module": "web",
         "type": "Page"
       },
       "About": {
-        "id": 23,
+        "id": 63,
         "name": "About",
         "module": "web",
         "type": "Page"
       },
       "Blog1": {
-        "id": 24,
+        "id": 64,
         "name": "Blog1",
         "module": "web",
         "type": "Page"
       },
       "Portfolio": {
-        "id": 25,
+        "id": 65,
         "name": "Portfolio",
         "module": "web",
         "type": "Page"
       },
       "Contact": {
-        "id": 26,
+        "id": 66,
         "name": "Contact",
         "module": "web",
         "type": "Page"
@@ -81,7 +91,7 @@
     "documents": {
       "web": {
         "__document_status__": "Active",
-        "id": 5,
+        "id": 13,
         "name": "web",
         "description": "Web",
         "app_name": "alphabit-webpage",
