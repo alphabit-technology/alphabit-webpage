@@ -9,7 +9,7 @@
         "type": "Web App",
         "menu": "default",
         "logo": "[{\"name\":\"alphabit.png\",\"type\":\"image\",\"size\":717929,\"created_at\":1687571294076.433,\"src\":\"/uploads/alphabit.png\",\"extention\":\"png\",\"previewSrc\":\"/uploads/thumbnails/alphabit.png\",\"selected\":true}]",
-        "logo_width": "60",
+        "logo_width": "50",
         "default_app": 1,
         "has_footer": 0,
         "has_copyright": 1,
@@ -20,7 +20,7 @@
         "menu_items": [
           {
             "__document_status__": "Active",
-            "id": 16,
+            "id": 42,
             "name": "el1144515371249",
             "menu_link": "Home",
             "description": "Home",
@@ -30,7 +30,7 @@
           },
           {
             "__document_status__": "Active",
-            "id": 17,
+            "id": 43,
             "name": "el143492076931",
             "menu_link": "About",
             "description": "About",
@@ -45,7 +45,7 @@
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
