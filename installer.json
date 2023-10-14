@@ -1,6 +1,6 @@
 {
   "App": {
-    "doctypeId": 3,
+    "doctypeId": 4,
     "documents": {
       "alphabit-webpage": {
         "__document_status__": "Active",
@@ -16,11 +16,13 @@
         "footer": "<div class=\"row\">\r\n\t\t<div class=\"col-12 col-md-4 col-lg-3\"><img src=\"/assets/images/logo.svg\" alt=\"Logo\" class=\"img-fluid\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t width=\"120px\"></div>\r\n\t\t<div class=\"col-12 col-md-8 col-lg-9\">\r\n\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t<div class=\"col-12 col-md-4\"><h5 class=\"text-uppercase text-muted mb-3\">Company</h5>\r\n\t\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"/Home\">About us</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"/About\">Our team</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Blog</a></li>\r\n\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"col-12 col-md-4\"><h5 class=\"text-uppercase text-muted mb-3\">Support</h5>\r\n\t\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Help center</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Contact us</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Privacy policy</a></li>\r\n\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"col-12 col-md-4\"><h5 class=\"text-uppercase text-muted mb-3\">Social</h5>\r\n\t\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Facebook</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Twitter</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Instagram</a></li>\r\n\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t</div>\r\n</div>",
         "copyright": "<div class=\"row align-items-center\">\r\n\t\t<div class=\"col-12 col-md-6 text-center text-md-left\">\r\n\t\t\t\t<p class=\"text-muted mb-0\">© 2023 \r\n\t\t\t\t\t\t<a class=\"text-muted\" href=\"/home\" navigate=\"home\">AlphaBit Technology</a>.\r\n\t\t\t\t\t\tAll rights reserved.\r\n\t\t\t\t</p>\r\n\t\t</div>\r\n\t\t<div class=\"col-12 col-md-6 text-center text-md-right\">\r\n\t\t\t\t<ul class=\"list-inline mb-0\">\r\n\t\t\t\t\t\t<li class=\"list-inline-item\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Build on Loopar</a></li>\r\n\t\t\t\t</ul>\r\n\t\t</div>   \r\n</div>",
         "fixed": 1,
-        "opacity": "0.7",
+        "login_button": 1,
+        "stripe_link_donation": "https://buy.stripe.com/test_9AQ4i38zm5iicy4bIK",
+        "opacity": "0.6",
         "menu_items": [
           {
             "__document_status__": "Active",
-            "id": 48,
+            "id": 72,
             "name": "el1144515371249",
             "menu_link": "Home",
             "description": "Home",
@@ -30,7 +32,7 @@
           },
           {
             "__document_status__": "Active",
-            "id": 49,
+            "id": 73,
             "name": "el143492076931",
             "menu_link": "About",
             "description": "About",
@@ -45,7 +47,7 @@
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.1.4",
+        "version": "0.1.5",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
