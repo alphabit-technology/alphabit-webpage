@@ -22,7 +22,7 @@
         "menu_items": [
           {
             "__document_status__": "Active",
-            "id": 72,
+            "id": 77,
             "name": "el1144515371249",
             "menu_link": "Home",
             "description": "Home",
@@ -32,10 +32,20 @@
           },
           {
             "__document_status__": "Active",
-            "id": 73,
+            "id": 78,
             "name": "el143492076931",
             "menu_link": "About",
             "description": "About",
+            "document_parent": "App",
+            "document_parent_name": "alphabit-webpage",
+            "deleted_at": null
+          },
+          {
+            "__document_status__": "Active",
+            "id": 79,
+            "name": "el155230876596",
+            "menu_link": "Donate",
+            "description": "Donate",
             "document_parent": "App",
             "document_parent_name": "alphabit-webpage",
             "deleted_at": null
@@ -47,7 +57,7 @@
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.1.5",
+        "version": "0.1.6",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
@@ -60,31 +70,43 @@
         "id": 62,
         "name": "Home",
         "module": "web",
-        "type": "Page"
+        "type": "Page",
+        "include_in_installer": 0
       },
       "About": {
         "id": 63,
         "name": "About",
         "module": "web",
-        "type": "Page"
+        "type": "Page",
+        "include_in_installer": 0
       },
       "Blog1": {
         "id": 64,
         "name": "Blog1",
         "module": "web",
-        "type": "Page"
+        "type": "Page",
+        "include_in_installer": 0
       },
       "Portfolio": {
         "id": 65,
         "name": "Portfolio",
         "module": "web",
-        "type": "Page"
+        "type": "Page",
+        "include_in_installer": 0
       },
       "Contact": {
         "id": 66,
         "name": "Contact",
         "module": "web",
-        "type": "Page"
+        "type": "Page",
+        "include_in_installer": 0
+      },
+      "Donate": {
+        "id": 67,
+        "name": "Donate",
+        "module": "web",
+        "type": "Page",
+        "include_in_installer": 0
       }
     }
   },
