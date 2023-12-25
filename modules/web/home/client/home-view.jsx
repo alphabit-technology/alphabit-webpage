@@ -1,7 +1,7 @@
 
 'use strict';
 
-import WebContext from '/gui/document/web-context.js';
+import WebContext from '#context/web-context';
 
 export default class HomeView extends WebContext {
     constructor(props){
