@@ -1,10 +1,10 @@
 
 'use strict';
 
-import {BaseController} from 'loopar-env';
+import { BaseController } from 'loopar';
 
 export default class Blog1Controller extends BaseController {
-    constructor(props){
+    constructor(props) {
         super(props);
     }
 }

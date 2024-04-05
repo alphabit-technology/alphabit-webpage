@@ -1,10 +1,10 @@
 
 'use strict';
 
-import ViewContext from '/gui/document/view-context.js';
+import ViewContext from '$context/view-context';
 
 export default class TestDocumentWebView extends ViewContext {
-    constructor(props){
+    constructor(props) {
         super(props);
     }
 }

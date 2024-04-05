@@ -1,10 +1,10 @@
 
 'use strict';
 
-import WebContext from '#context/web-context';
+import WebContext from '$context/web-context';
 
 export default class HomeView extends WebContext {
-    constructor(props){
+    constructor(props) {
         super(props);
     }
 }

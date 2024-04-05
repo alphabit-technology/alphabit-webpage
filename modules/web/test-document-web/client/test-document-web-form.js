@@ -1,10 +1,10 @@
 
 'use strict';
 
-import FormContext from '/gui/document/form-context.js';
+import FormContext from '$context/list-context';
 
 export default class TestDocumentWebForm extends FormContext {
-    constructor(props){
+    constructor(props) {
         super(props);
     }
 }

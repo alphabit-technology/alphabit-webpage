@@ -1,10 +1,10 @@
 
 'use strict';
 
-import ListContext from '/gui/document/list-context.js';
+import ListContext from '$context/list-context';
 
 export default class TestDocumentWebList extends ListContext {
-    constructor(props){
+    constructor(props) {
         super(props);
     }
 }

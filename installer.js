@@ -1,10 +1,10 @@
 
 'use strict';
 
-import {CoreInstaller} from 'loopar-env';
+import { CoreInstaller } from 'loopar';
 
 export default class installer extends CoreInstaller {
-    constructor(props){
+    constructor(props) {
         super(props);
     }
 }
