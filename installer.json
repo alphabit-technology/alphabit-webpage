@@ -1,13 +1,12 @@
 {
   "App": {
-    "doctypeId": 4,
+    "doctypeId": "4",
     "documents": {
       "alphabit-webpage": {
         "__document_status__": "Active",
-        "id": 10,
-        "deleted_at": null,
+        "id": 2,
+        "deleted_at": "2024-04-13 22:50:49",
         "type": "Web App",
-        "menu": "default",
         "logo": "[{\"name\":\"alphabit.png\",\"type\":\"image\",\"size\":717929,\"created_at\":1687571294076.433,\"src\":\"/uploads/alphabit.png\",\"extention\":\"png\",\"previewSrc\":\"/uploads/thumbnails/alphabit.png\",\"selected\":true}]",
         "logo_width": "50",
         "default_app": 1,
@@ -18,52 +17,15 @@
         "fixed": 1,
         "login_button": 1,
         "stripe_link_donation": "https://buy.stripe.com/test_9AQ4i38zm5iicy4bIK",
-        "opacity": "0.6",
-        "menu_items": [
-          {
-            "__document_status__": "Active",
-            "id": 87,
-            "name": "el123557397253",
-            "menu_link": "Home",
-            "description": "Home",
-            "document_parent": null,
-            "document_parent_name": null,
-            "deleted_at": null,
-            "parent_id": "10",
-            "parent_document": "4"
-          },
-          {
-            "__document_status__": "Active",
-            "id": 88,
-            "name": "el441158620015",
-            "menu_link": "About",
-            "description": "About",
-            "document_parent": null,
-            "document_parent_name": null,
-            "deleted_at": null,
-            "parent_id": "10",
-            "parent_document": "4"
-          },
-          {
-            "__document_status__": "Active",
-            "id": 89,
-            "name": "el803938716738",
-            "menu_link": "Donate",
-            "description": "Donate",
-            "document_parent": null,
-            "document_parent_name": null,
-            "deleted_at": null,
-            "parent_id": "10",
-            "parent_document": "4"
-          }
-        ],
+        "opacity": "",
+        "menu_items": [],
         "git_repo": "",
         "repository": "",
         "github_user": "",
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.1.9",
+        "version": "0.2.0",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
@@ -73,42 +35,42 @@
     "doctypeId": 1,
     "documents": {
       "Home": {
-        "id": 62,
+        "id": 22,
         "name": "Home",
         "module": "web",
         "type": "Page",
         "include_in_installer": 0
       },
       "About": {
-        "id": 63,
+        "id": 23,
         "name": "About",
         "module": "web",
         "type": "Page",
         "include_in_installer": 0
       },
       "Blog1": {
-        "id": 64,
+        "id": 24,
         "name": "Blog1",
         "module": "web",
         "type": "Page",
         "include_in_installer": 0
       },
       "Portfolio": {
-        "id": 65,
+        "id": 25,
         "name": "Portfolio",
         "module": "web",
         "type": "Page",
         "include_in_installer": 0
       },
       "Contact": {
-        "id": 66,
+        "id": 26,
         "name": "Contact",
         "module": "web",
         "type": "Page",
         "include_in_installer": 0
       },
       "Donate": {
-        "id": 67,
+        "id": 27,
         "name": "Donate",
         "module": "web",
         "type": "Page",
@@ -121,14 +83,14 @@
     "documents": {
       "web": {
         "__document_status__": "Active",
-        "id": 13,
+        "id": 5,
         "name": "web",
         "description": "Web",
         "app_name": "alphabit-webpage",
         "module_group": "Modules",
         "icon": "fa fa-globe",
         "in_sidebar": 1,
-        "deleted_at": null
+        "deleted_at": "2024-04-14T02:50:49.000Z"
       }
     }
   }
