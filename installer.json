@@ -5,11 +5,10 @@
       "alphabit-webpage": {
         "__document_status__": "Active",
         "id": 2,
-        "deleted_at": "2024-04-13 22:50:49",
+        "deleted_at": "2024-06-02 22:36:09",
         "type": "Web App",
         "logo": "[{\"name\":\"alphabit.png\",\"type\":\"image\",\"size\":717929,\"created_at\":1687571294076.433,\"src\":\"/uploads/alphabit.png\",\"extention\":\"png\",\"previewSrc\":\"/uploads/thumbnails/alphabit.png\",\"selected\":true}]",
         "logo_width": "50",
-        "default_app": 1,
         "has_footer": 0,
         "has_copyright": 1,
         "footer": "<div class=\"row\">\r\n\t\t<div class=\"col-12 col-md-4 col-lg-3\"><img src=\"/assets/images/logo.svg\" alt=\"Logo\" class=\"img-fluid\"\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t width=\"120px\"></div>\r\n\t\t<div class=\"col-12 col-md-8 col-lg-9\">\r\n\t\t\t\t<div class=\"row\">\r\n\t\t\t\t\t\t<div class=\"col-12 col-md-4\"><h5 class=\"text-uppercase text-muted mb-3\">Company</h5>\r\n\t\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"/Home\">About us</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"/About\">Our team</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Blog</a></li>\r\n\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"col-12 col-md-4\"><h5 class=\"text-uppercase text-muted mb-3\">Support</h5>\r\n\t\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Help center</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Contact us</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Privacy policy</a></li>\r\n\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"col-12 col-md-4\"><h5 class=\"text-uppercase text-muted mb-3\">Social</h5>\r\n\t\t\t\t\t\t\t\t<ul class=\"list-unstyled\">\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Facebook</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Twitter</a></li>\r\n\t\t\t\t\t\t\t\t\t\t<li class=\"mb-2\"><a class=\"text-muted\" href=\"#\" target=\"_self\">Instagram</a></li>\r\n\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t</div>\r\n</div>",
@@ -25,7 +24,7 @@
         "github_pass": "",
         "name": "alphabit-webpage",
         "description": "AlphaBit Web Page",
-        "version": "0.2.1",
+        "version": "0.2.2",
         "autor": "alphabit",
         "info": "AlphaBit Web Page"
       }
